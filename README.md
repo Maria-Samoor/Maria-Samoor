@@ -30,10 +30,13 @@ I embrace the learning process, understanding that mistakes are opportunities fo
 ### 🗄️Databases: 
 **Relational:**
 <br>
+<br>
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)  ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 
 <br>
 **Non-relational:**
+<br> 
 <br>
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
 
 ### ⚙️ Tools & Technologies: 
