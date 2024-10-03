@@ -16,7 +16,6 @@ to create efficient, secure, and scalable solutions.
 - 🔭 I’m working on various projects involving **microservices**.
 - 🎯 My goal is to gain experience in **Beckend Development** while contributing to impactful projects.
 
-<img align="right" height="200" width="300" alt="CatCode" src="https://github.com/sharif-islam96403/sharif-islam96403/blob/main/CatCode.gif">
 
 ### 🖥️ Programming Languages: 
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
@@ -24,6 +23,7 @@ to create efficient, secure, and scalable solutions.
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
+<img align="right" height="200" width="300" alt="CatCode" src="https://github.com/sharif-islam96403/sharif-islam96403/blob/main/CatCode.gif">
 
 ### 📚 Frameworks & Libraries: 
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)
