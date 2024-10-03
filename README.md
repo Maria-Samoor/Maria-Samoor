@@ -4,7 +4,6 @@ I am **Maria Abu Sammour**, a **Computer Engineering student** specializing in t
 
 
 ### 🌟 About Me
-<img align="right" height="200" width="300" alt="CatCode" src="https://github.com/sharif-islam96403/sharif-islam96403/blob/main/CatCode.gif">
 
 As a passionate **Backend Developer** interested in **security**, I believe in the philosophy:  
 *"Programming is not about what you know; it's about what you can figure out."*  
@@ -46,6 +45,7 @@ to create efficient, secure, and scalable solutions.
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-%23F37626.svg?style=flat&logo=jupyter&logoColor=white)
 ![Colab](https://img.shields.io/badge/Google%20Colab-%F9AB00.svg?style=flat&logo=googlecolab&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%23E03C31.svg?style=flat&logo=canva&logoColor=white)
+<img align="right" height="200" width="300" alt="CatCode" src="https://github.com/sharif-islam96403/sharif-islam96403/blob/main/CatCode.gif">
 
 
 ### 📈 GitHub Stats:
