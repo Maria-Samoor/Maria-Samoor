@@ -5,6 +5,7 @@ I am **Maria Abu Sammour**, a **Computer Engineering student** specializing in t
 ![CatCode](https://github.com/sharif-islam96403/sharif-islam96403/blob/main/CatCode.gif)
 
 ### 🌟 About Me
+<img align="right" height="200" width="300" alt="CatCode" src="https://github.com/sharif-islam96403/sharif-islam96403/blob/main/CatCode.gif">
 
 As a passionate **Backend Developer** interested in **security**, I believe in the philosophy:  
 *"Programming is not about what you know; it's about what you can figure out."*  
