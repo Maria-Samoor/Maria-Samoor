@@ -9,9 +9,8 @@ I am **Maria Abu Sammour**, a **Computer Engineering student** specializing in t
 As a passionate **Backend Developer** interested in **security**, I believe in the philosophy:  
 *"Programming is not about what you know; it's about what you can figure out."*  
 I embrace the learning process, understanding that mistakes are opportunities for growth. My journey in backend development has been driven by curiosity and the desire to create efficient, secure, and scalable solutions.
-![CatCode](https://github.com/sharif-islam96403/sharif-islam96403/blob/main/CatCode.gif)  
 - 🌱 I’m currently exploring **containerization** using **Docker**.
-- 💼 I'm experienced in **backend development** with **Django** and **Spring Boot**.
+- 💼 I'm experienced in **backend development** with **Django** and **Spring Boot**. ![CatCode](https://github.com/sharif-islam96403/sharif-islam96403/blob/main/CatCode.gif)  
 - 🔭 I’m working on various projects involving **microservices**.
 - 🎯 My goal is to gain experience in **Beckend Development** while contributing to impactful projects.
 
