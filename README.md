@@ -55,5 +55,4 @@ I embrace the learning process, understanding that mistakes are opportunities fo
 ![GitHub Snake](https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?)
 
 ### 📫 Contact Me:
-- [![Email Icon](https://img.shields.io/badge/gmail-%23EA4335.svg?style=flat&logo=gmail&logoColor=white)](mailto:mariaabusamoor@gmail.com)  
-- [![LinkedIn Icon](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariaabusamoor)
+[![Email Icon](https://img.shields.io/badge/gmail-%23EA4335.svg?style=flat&logo=gmail&logoColor=white)](mailto:mariaabusamoor@gmail.com)  [![LinkedIn Icon](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariaabusamoor)
