@@ -15,19 +15,19 @@ I embrace the learning process, understanding that mistakes are opportunities fo
 - 🎯 My goal is to gain experience in **Beckend Development** while contributing to impactful projects.
 
 
-#### 🖥️ Programming Languages: 
+### 🖥️ Programming Languages: 
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
 
-#### 📚 Frameworks & Libraries: 
+### 📚 Frameworks & Libraries: 
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white)
 ![Bulma](https://img.shields.io/badge/Bulma-%2300D1B2.svg?style=flat&logo=bulma&logoColor=white)
 
-#### 🗄️Databases: 
+### 🗄️Databases: 
 **Relational:**
 <br>
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)  ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 
@@ -36,7 +36,7 @@ I embrace the learning process, understanding that mistakes are opportunities fo
 <br>
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
 
-#### ⚙️ Tools & Technologies: 
+### ⚙️ Tools & Technologies: 
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)
