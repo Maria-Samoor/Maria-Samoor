@@ -28,8 +28,10 @@ I embrace the learning process, understanding that mistakes are opportunities fo
 ![Bulma](https://img.shields.io/badge/Bulma-%2300D1B2.svg?style=flat&logo=bulma&logoColor=white)
 
 #### 🗄️Databases: 
-Relational: ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)  
-Non-relational: ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
+**Relational:**
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)  ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 
+**Non-relational:**
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
 
 #### ⚙️ Tools & Technologies: 
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
@@ -47,8 +49,8 @@ Non-relational: ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?st
 
 ### 📈 GitHub Stats:
 
-![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maria-Samoor&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maria-Samoor&layout=compact&theme=radical)
+| ![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maria-Samoor&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maria-Samoor&layout=compact&theme=radical) |
+| --- | --- |
 
 ![GitHub Snake](https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?)
 
