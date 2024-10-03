@@ -2,7 +2,7 @@
 
 I am **Maria Abu Sammour**, a **Computer Engineering student** specializing in the **Information Security sector**. Currently in my last semester, I am focusing on **backend development** using **Django** and **Spring Boot**.
 
-![CatCode](https://github.com/sharif-islam96403/sharif-islam96403/blob/main/CatCode.gif)
+<img align="right" height="270" width="400" alt="CatCode" src="https://github.com/sharif-islam96403/sharif-islam96403/blob/main/CatCode.gif">
 
 ### 🌟 About Me
 
@@ -53,6 +53,5 @@ Non-relational: ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?st
 ![GitHub Snake](https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?)
 
 ### 📫 Contact Me:
-
-- ![Email Icon](https://img.shields.io/badge/gmail-%23EA4335.svg?style=flat&logo=gmail&logoColor=white) [mariaabusamoor@gmail.com](mailto:mariaabusamoor@gmail.com)  
-- ![LinkedIn Icon](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white) [Maria Abu Sammour](https://www.linkedin.com/in/mariaabusamoor)
+- [![Email Icon](https://img.shields.io/badge/gmail-%23EA4335.svg?style=flat&logo=gmail&logoColor=white)](mailto:mariaabusamoor@gmail.com)  
+- [![LinkedIn Icon](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariaabusamoor)
