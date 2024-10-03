@@ -54,5 +54,5 @@ Non-relational: ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?st
 
 ### 📫 Contact Me:
 
-- ![Email Icon](https://img.icons8.com/ios-filled/50/000000/gmail.png)  [mariaabusamoor@gmail.com](mailto:mariaabusamoor@gmail.com)  
-- ![LinkedIn Icon](https://img.icons8.com/ios-filled/50/000000/linkedin.png)  [Maria Abu Sammour](https://www.linkedin.com/in/mariaabusamoor)
+- ![Email Icon](https://img.shields.io/badge/gmail-%23EA4335.svg?style=flat&logo=gmail&logoColor=white) [mariaabusamoor@gmail.com](mailto:mariaabusamoor@gmail.com)  
+- ![LinkedIn Icon](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white) [Maria Abu Sammour](https://www.linkedin.com/in/mariaabusamoor)
