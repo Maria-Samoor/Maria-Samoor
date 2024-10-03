@@ -8,7 +8,8 @@ I am **Maria Abu Sammour**, a **Computer Engineering student** specializing in t
 
 As a passionate **Backend Developer** interested in **security**, I believe in the philosophy:  
 *"Programming is not about what you know; it's about what you can figure out."*  
-I embrace the learning process, understanding that mistakes are opportunities for growth. My journey in backend development has been driven by curiosity and the desire to create efficient, secure, and scalable solutions.
+I embrace the learning process, understanding that mistakes are opportunities for growth. My journey in backend development has been driven by curiosity and the desire 
+to create efficient, secure, and scalable solutions.
 - 🌱 I’m currently exploring **containerization** using **Docker**.
 - 💼 I'm experienced in **backend development** with **Django** and **Spring Boot**. 
 - 🔭 I’m working on various projects involving **microservices**.
@@ -29,14 +30,13 @@ I embrace the learning process, understanding that mistakes are opportunities fo
 
 ### 🗄️Databases: 
 **Relational:**
-<br>
+
 <br>
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)  ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 
 <br>
 **Non-relational:**
-<br> 
-<br>
 
+<br>
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
 
 ### ⚙️ Tools & Technologies: 
