@@ -2,6 +2,7 @@
 
 I am **Maria Abu Sammour**, a **Computer Engineering student** specializing in the **Information Security sector**. Currently in my last semester, I am focusing on **backend development** using **Django** and **Spring Boot**.
 
+![CatCode](https://github.com/sharif-islam96403/sharif-islam96403/blob/main/CatCode.gif)
 
 ### 🌟 About Me
 
@@ -23,7 +24,6 @@ to create efficient, secure, and scalable solutions.
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
-<img align="right" height="200" width="300" alt="CatCode" src="https://github.com/sharif-islam96403/sharif-islam96403/blob/main/CatCode.gif">
 
 ### 📚 Frameworks & Libraries: 
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)
