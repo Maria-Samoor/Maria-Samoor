@@ -1,8 +1,5 @@
-# 𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/>! ![Waving Hand](https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif)
-
-I am **Maria Abu Sammour**, a **Computer Engineering student** specializing in the **Information Security sector**. Currently in my last semester, I am focusing on **backend development** using **Django** and **Spring Boot**.
-
-![CatCode](https://github.com/sharif-islam96403/sharif-islam96403/blob/main/CatCode.gif)
+# 𝐇𝐞𝐥𝐥𝐨, 
+I am **Maria Abu Sammour**, a **Computer Engineering student** specializing in the **Information Security sector**. Currently in my last semester, I am focusing on **backend development**.
 
 ### 🌟 About Me
 
