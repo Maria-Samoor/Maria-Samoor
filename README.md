@@ -5,9 +5,7 @@ I'm **Maria Abu Sammour**, a Computer Engineering graduate specialized in the In
 As a passionate **Backend Developer** with interests in **security**, **networking**, **cloud computing**, and **IoT**, I believe:  
 > *"Programming is not about what you know; it's about what you can figure out."*
 
-I approach development with curiosity and a focus on building **efficient**, **secure**, and **scalable** systems.  
-I embrace the learning process, understanding that mistakes are opportunities for growth.  
-My journey in backend development has been driven by a strong desire to learn and to create impactful, well-engineered solutions.
+I approach development with curiosity and a focus on building **efficient**, **secure**, and **scalable** systems. I embrace the learning process, understanding that mistakes are opportunities for growth. My journey in backend development has been driven by a strong desire to learn and to create impactful, well-engineered solutions.
 
 - 💻 I'm focused on **backend development**, building robust APIs and services using Django and Spring Boot.  
 - 🐳 I'm currently working on **Docker and containerization**, aiming to streamline development and deployment workflows.  
