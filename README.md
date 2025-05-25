@@ -1,19 +1,17 @@
 # 𝐇𝐞𝐥𝐥𝐨, 
-I am **Maria Abu Sammour**, a **Computer Engineering student** specializing in the **Information Security sector**. Currently in my last semester, I am focusing on **backend development**.
+I'm **Maria Abu Sammour**, a Computer Engineering graduate specialized in the Information Security sector.
 
-### 🌟 About Me
+### About Me
+As a passionate **Backend Developer** with interests in **security**, **networking**, **cloud computing**, and **IoT**, I believe:  
+> *"Programming is not about what you know; it's about what you can figure out."*
 
-As a passionate **Backend Developer** interested in **security**, I believe in the philosophy:  
-*"Programming is not about what you know; it's about what you can figure out."*  
-I embrace the learning process, understanding that mistakes are opportunities for growth. 
-My journey in backend development has been driven by curiosity and the desire 
-to create efficient, secure, and scalable solutions.
+I approach development with curiosity and a focus on building **efficient**, **secure**, and **scalable** systems.  
+I embrace the learning process, understanding that mistakes are opportunities for growth.  
+My journey in backend development has been driven by a strong desire to learn and to create impactful, well-engineered solutions.
 
-- 🌱 I’m currently exploring **containerization** using **Docker**.
-- 💼 I'm experienced in **backend development** with **Django** and **Spring Boot**. 
-- 🔭 I’m working on various projects involving **microservices**.
-- 🎯 My goal is to gain experience in **Beckend Development** while contributing to impactful projects.
-
+- 💻 I'm focused on **backend development**, building robust APIs and services using Django and Spring Boot.  
+- 🐳 I'm currently working on **Docker and containerization**, aiming to streamline development and deployment workflows.  
+- 🛠️ I'm exploring **Platform Engineering**, bridging development and operations to build more reliable infrastructure.
 
 ### 🖥️ Programming Languages: 
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
