@@ -43,7 +43,7 @@ I approach development with curiosity and a focus on building **efficient**, **s
 
 ### 📈 GitHub Stats:
 
-| ![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maria-Samoor&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maria-Samoor&layout=compact&theme=radical) |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Maria-Samoor&show_icons=true&theme=radical&cache_seconds=86400) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maria-Samoor&layout=compact&theme=radical&cache_seconds=86400) |
 | --- | --- |
 
 ![GitHub Snake](https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?)
