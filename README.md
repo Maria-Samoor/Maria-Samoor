@@ -1,5 +1,5 @@
 # 𝐇𝐞𝐥𝐥𝐨, 
-I'm **Maria Abu Sammour**, a Computer Engineering graduate specialized in the Information Security sector.
+I'm **Maria Abu Sammour**, a Computer Engineering graduate specialized in Information Security sector.
 
 ### About Me
 As a passionate **Backend Developer** with interests in **security**, **networking**, **cloud computing**, and **IoT**, I believe:  
